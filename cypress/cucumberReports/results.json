@@ -14,7 +14,7 @@
             "line": 6,
             "name": "I open Ecommerce Page",
             "result": {
-              "duration": 2348000000,
+              "duration": 1536000000,
               "status": "passed"
             },
             "match": {
@@ -26,7 +26,7 @@
             "line": 7,
             "name": "I add items to card",
             "result": {
-              "duration": 2286000000,
+              "duration": 1559000000,
               "status": "passed"
             },
             "match": {
@@ -38,7 +38,7 @@
             "line": 8,
             "name": "Validate the total prices",
             "result": {
-              "duration": 65000000,
+              "duration": 52000000,
               "status": "passed"
             },
             "match": {
@@ -50,7 +50,7 @@
             "line": 9,
             "name": "Select the country submit and verify Thankyou",
             "result": {
-              "duration": 5749000000,
+              "duration": 5706000000,
               "status": "passed"
             },
             "match": {
@@ -78,7 +78,7 @@
             "line": 13,
             "name": "I open Ecommerce Page",
             "result": {
-              "duration": 1123000000,
+              "duration": 583000000,
               "status": "passed"
             },
             "match": {
@@ -90,7 +90,7 @@
             "line": 14,
             "name": "I fill the form details",
             "result": {
-              "duration": 395000000,
+              "duration": 362000000,
               "status": "passed"
             },
             "match": {
@@ -116,7 +116,7 @@
             "line": 17,
             "name": "Validate the forms behavious",
             "result": {
-              "duration": 42000000,
+              "duration": 30000000,
               "status": "passed"
             },
             "match": {
@@ -128,7 +128,7 @@
             "line": 18,
             "name": "Select the Shop page",
             "result": {
-              "duration": 31000000,
+              "duration": 10000000,
               "status": "passed"
             },
             "match": {
